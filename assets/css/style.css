@@ -6,3 +6,105 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ 	box-sizing: border-box;
+ }
+
+ body{
+ 	font-family: 'Raleway', sans-serif;
+ }
+
+ header {
+ 	background-color: #F78E69;
+ 	width: 100%;
+ 	height: 100px;
+ }
+
+ header h1{
+ 	text-align: right;
+ 	color: white;
+ 	margin-right: 100px;
+ 	padding-top: 20px;
+ }
+
+ header p{
+ 	text-align: right;
+ 	color: white;
+ 	margin-right: 100px;
+ }
+
+ .caja1{
+ 	width: 100%;
+ 	height: 400px;
+ 	box-sizing: border-box;
+ }
+
+.fondo1{
+ 	background-size: cover; 
+ 	width: 100%;
+ 	background-position: center;
+ 	box-sizing: border-box;
+ }
+
+.caja2{
+	background-color: #F78E69;
+	height: 500px;
+}
+
+.cuadrado{
+	background-color: #ABE188;
+	padding: 50px;
+	display: block;
+	position: absolute;
+	margin:40px 0;
+	height: 420px;
+}
+
+.box{
+	background-color: #F78E69;
+	width: 50%;
+	height: 300px;
+	margin-left: 400px;
+}
+
+h3{
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.box p{
+	color:white;
+	width: 80%;
+	margin-left: 50px;
+}
+
+.fondo2{
+	width: 100%;
+}
+
+.box-image{
+	background-color: #F78E69;
+ 	width: 100%;
+ 	height: 400px;
+}
+.caja4{
+	background-color: #ABE188;
+	padding: 50px;
+	position: absolute;
+	margin:40px 0;
+	height: 320px;
+	width: 100%;
+}
+
+.caja4 p{
+	text-align: center;
+	color:white;
+	font-size: 36px;
+}
+
+#pictures{
+	width: 100%;
+}
