@@ -108,3 +108,21 @@ h3{
 #pictures{
 	width: 100%;
 }
+
+.fondo3{
+	width: 100%;
+}
+
+footer{
+	background-color: #F78E69;
+	width: 100%;
+	height: 100px;
+
+}
+
+footer p{
+	color: white;
+	text-align: right;
+	margin-right: 50px;
+	padding-top: 30px;
+}
